@@ -40,17 +40,17 @@
         <path d="M 230 245 L 260 245" /> // bottom body nose side
       
         // vertical leg stems
-        <path d="M 70 200 L 70 265" />
-        <path d="M 90 247 L 90 265" />
-        <path d="M 120 247 L 120 265" />
-        <path d="M 140 245 L 140 265" />
+        <path d="M 90 200 L 90 265" />
+        <path d="M 110 247 L 110 265" />
+        <path d="M 140 247 L 140 265" />
+        <path d="M 160 245 L 160 265" />
         <path d="M 210 245 L 210 265" />
         <path d="M 230 245 L 230 265" />
         <path d="M 260 245 L 260 265" />
         <path d="M 280 235 L 280 265" />
         // leg + foot outlines (rounded)
-        <path d="M 90 265 L 70 265 L 70 300 L 103 300 L 103 285 L 90 285 Z" /> // back right leg
-        <path d="M 140 265 L 120 265 L 120 300 L 153 300 L 153 285 L 140 285 Z" /> // back left leg
+        <path d="M 110 265 L 90 265 L 90 300 L 123 300 L 123 285 L 110 285 Z" /> // back right leg
+        <path d="M 160 265 L 140 265 L 140 300 L 173 300 L 173 285 L 160 285 Z" /> // back left leg
         <path d="M 230 265 L 210 265 L 210 300 L 243 300 L 243 285 L 230 285 Z" /> // front left leg
         <path d="M 280 265 L 260 265 L 260 300 L 293 300 L 293 285 L 280 285 Z" /> // front right leg
         <rect x="257" y="167" width="80" height="65" /> // nose box outline
