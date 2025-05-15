@@ -1,45 +1,26 @@
 <svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
   <rect width="400" height="400" fill="#ffffff" /> 
   <g id="sockybara">
-    
-    // add colors
     <g id="color">
-      // front right leg
-      <rect x="260" y="265" width="20" height="35" fill="#ffffff" /> // leg
-      <rect x="260" y="285" width="33" height="15" fill="#ffffff" /> // foot
-
-      // front left leg
-      <rect x="210" y="265" width="20" height="35" fill="#ffffff" /> // leg
-      <rect x="210" y="285" width="33" height="15" fill="#ffffff" /> // foot
-
-      // back left leg
-      <rect x="140" y="265" width="20" height="35" fill="#ffffff" /> // leg
-      <rect x="140" y="285" width="33" height="15" fill="#ffffff" /> // foot
-
-      // back right leg
-      <rect x="90" y="265" width="20" height="35" fill="#ffffff" /> // leg
-      <rect x="90" y="285" width="33" height="15" fill="#ffffff" /> // foot
-      
-      // nose box fill
-      <rect x="257" y="167" width="80" height="65" fill="#ffffff"/> // nose
-
-      // right ear fill
-      <rect x="208" y="112" width="20" height="12" fill="#ffffff" /> // back ear
-
-      // left ear fill
-      <rect x="258" y="112" width="20" height="12" fill="#ffffff" /> // front ear
+      <rect x="260" y="265" width="20" height="35" fill="#ffffff" />
+      <rect x="260" y="285" width="33" height="15" fill="#ffffff" />
+      <rect x="210" y="265" width="20" height="35" fill="#ffffff" />
+      <rect x="210" y="285" width="33" height="15" fill="#ffffff" />
+      <rect x="140" y="265" width="20" height="35" fill="#ffffff" />
+      <rect x="140" y="285" width="33" height="15" fill="#ffffff" />
+      <rect x="90" y="265" width="20" height="35" fill="#ffffff" />
+      <rect x="90" y="285" width="33" height="15" fill="#ffffff" />
+      <rect x="257" y="167" width="80" height="65" fill="#ffffff"/>
+      <rect x="208" y="112" width="20" height="12" fill="#ffffff" />
+      <rect x="258" y="112" width="20" height="12" fill="#ffffff" />
     </g>
-
-    // draw outlines
     <g id="outlines" fill="none" stroke="#000000" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
-        <path d="M 190 174 L 190 125" /> // back of head
-        <path d="M 190 124 L 310 124" /> // top of head
-        <path d="M 310 165 L 310 126" /> // front of head / face
-        <path d="M 190 175 L 100 175 Q 90 175 90 185 L 90 245" /> 
-        <path d="M 110 245 L 209 245" /> // bottom body front half
-        <path d="M 230 245 L 260 245" /> // bottom body nose side
-      
-        // vertical leg stems
+        <path d="M 190 174 L 190 125" />
+        <path d="M 190 124 L 310 124" />
+        <path d="M 310 165 L 310 126" />
+        <path d="M 190 175 L 100 175 Q 90 175 90 185 L 90 245" />
+        <path d="M 110 245 L 209 245" />
+        <path d="M 230 245 L 260 245" />
         <path d="M 90 200 L 90 265" />
         <path d="M 110 247 L 110 265" />
         <path d="M 140 247 L 140 265" />
@@ -48,23 +29,20 @@
         <path d="M 230 245 L 230 265" />
         <path d="M 260 245 L 260 265" />
         <path d="M 280 235 L 280 265" />
-        // leg + foot outlines (rounded)
-        <path d="M 110 265 L 90 265 L 90 300 L 123 300 L 123 285 L 110 285 Z" /> // back right leg
-        <path d="M 160 265 L 140 265 L 140 300 L 173 300 L 173 285 L 160 285 Z" /> // back left leg
-        <path d="M 230 265 L 210 265 L 210 300 L 243 300 L 243 285 L 230 285 Z" /> // front left leg
-        <path d="M 280 265 L 260 265 L 260 300 L 293 300 L 293 285 L 280 285 Z" /> // front right leg
-        <rect x="257" y="167" width="80" height="65" /> // nose box outline
-        <rect x="258" y="112" width="20" height="12" /> // front ear
-        <rect x="208" y="112" width="20" height="12" /> // back ear
+        <path d="M 110 265 L 90 265 L 90 300 L 123 300 L 123 285 L 110 285 Z" />
+        <path d="M 160 265 L 140 265 L 140 300 L 173 300 L 173 285 L 160 285 Z" />
+        <path d="M 230 265 L 210 265 L 210 300 L 243 300 L 243 285 L 230 285 Z" />
+        <path d="M 280 265 L 260 265 L 260 300 L 293 300 L 293 285 L 280 285 Z" />
+        <rect x="257" y="167" width="80" height="65" />
+        <rect x="258" y="112" width="20" height="12" />
+        <rect x="208" y="112" width="20" height="12" />
     </g>
-
-    // draw face
     <g id="face" fill="#000000">
-        <rect x="280" y="140" width="10" height="16" /> // right eye
-        <rect x="238" y="140" width="10" height="16" /> // left eye
-        <circle cx="295" cy="190" r="4" /> // right nostril
-        <circle cx="313" cy="190" r="4" /> // left nostril
-        <rect x="303" y="206" width="4" height="28" /> // nose bridge or mouth detail
+        <rect x="280" y="140" width="10" height="16" />
+        <rect x="238" y="140" width="10" height="16" />
+        <circle cx="295" cy="190" r="4" />
+        <circle cx="313" cy="190" r="4" />
+        <rect x="303" y="206" width="4" height="28" />
     </g>
   </g>
 </svg>
