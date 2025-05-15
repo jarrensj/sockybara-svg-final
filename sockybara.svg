@@ -36,7 +36,7 @@
         <path d="M 190 124 L 310 124" /> // top of head
         <path d="M 310 165 L 310 126" /> // front of head / face
         <path d="M 190 175 L 100 175 Q 90 175 90 185 L 90 245" /> 
-        <path d="M 90 245 L 209 245" /> // bottom body front half
+        <path d="M 110 245 L 209 245" /> // bottom body front half
         <path d="M 230 245 L 260 245" /> // bottom body nose side
       
         // vertical leg stems
