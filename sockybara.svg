@@ -13,12 +13,12 @@
       <rect x="210" y="285" width="33" height="15" fill="#ffffff" /> // foot
 
       // back left leg
-      <rect x="120" y="265" width="20" height="35" fill="#ffffff" /> // leg
-      <rect x="120" y="285" width="33" height="15" fill="#ffffff" /> // foot
+      <rect x="140" y="265" width="20" height="35" fill="#ffffff" /> // leg
+      <rect x="140" y="285" width="33" height="15" fill="#ffffff" /> // foot
 
       // back right leg
-      <rect x="70" y="265" width="20" height="35" fill="#ffffff" /> // leg
-      <rect x="70" y="285" width="33" height="15" fill="#ffffff" /> // foot
+      <rect x="90" y="265" width="20" height="35" fill="#ffffff" /> // leg
+      <rect x="90" y="285" width="33" height="15" fill="#ffffff" /> // foot
       
       // nose box fill
       <rect x="257" y="167" width="80" height="65" fill="#ffffff"/> // nose
