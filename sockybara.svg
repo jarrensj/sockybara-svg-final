@@ -38,8 +38,8 @@
       <rect x="256" y="113" width="16" height="10" />
     </g>
     <g id="face" fill="#000000">
-      <rect x="280" y="142" width="10" height="16" />
-      <rect x="234" y="142" width="10" height="16" />
+      <rect x="280" y="144" width="10" height="16" />
+      <rect x="234" y="144" width="10" height="16" />
       <circle cx="295" cy="190" r="4" />
       <circle cx="313" cy="190" r="4" />
       <rect x="303" y="206" width="4" height="28" />
