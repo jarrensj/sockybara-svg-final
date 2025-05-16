@@ -39,7 +39,7 @@
       <rect x="208" y="112" width="17" height="12" />
       <rect x="256" y="112" width="17" height="12" />
     </g>
-    <g id="face" fill="#000000">
+    <g id="nose-details" fill="#000000">
       <circle cx="295" cy="190" r="4" />
       <circle cx="313" cy="190" r="4" />
       <rect x="303" y="206" width="4" height="28" />
