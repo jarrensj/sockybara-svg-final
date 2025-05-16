@@ -11,14 +11,14 @@
       <rect x="90" y="265" width="20" height="35" fill="#ffffff" />
       <rect x="90" y="285" width="33" height="15" fill="#ffffff" />
       <rect x="257" y="167" width="80" height="65" fill="#ffffff"/>
-      <rect x="208" y="112" width="20" height="12" fill="#ffffff" />
-      <rect x="258" y="112" width="20" height="12" fill="#ffffff" />
+      <rect x="208" y="113" width="20" height="12" fill="#ffffff" />
+      <rect x="256" y="113" width="20" height="12" fill="#ffffff" />
     </g>
     <g id="outlines" fill="none" stroke="#000000" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
-      <path d="M 190 174 L 190 125" />
-      <path d="M 190 124 L 310 124" />
-      <path d="M 310 165 L 310 126" />
-      <path d="M 190 175 L 100 175 Q 90 175 90 185 L 90 245" />
+      <path d="M 194 174 L 194 125" />
+      <path d="M 194 124 L 310 124" />
+      <path d="M 310 165 L 310 125" />
+      <path d="M 194 175 L 100 175 Q 90 175 90 185 L 90 245" />
       <path d="M 110 245 L 209 245" />
       <path d="M 230 245 L 260 245" />
       <path d="M 90 200 L 90 265" />
@@ -34,8 +34,8 @@
       <path d="M 230 265 L 210 265 L 210 300 L 243 300 L 243 285 L 230 285 Z" />
       <path d="M 280 265 L 260 265 L 260 300 L 293 300 L 293 285 L 280 285 Z" />
       <rect x="257" y="167" width="80" height="65" />
-      <rect x="258" y="112" width="20" height="12" />
-      <rect x="208" y="112" width="20" height="12" />
+      <rect x="208" y="113" width="16" height="10" />
+      <rect x="256" y="113" width="16" height="10" />
     </g>
     <g id="face" fill="#000000">
       <rect x="280" y="142" width="10" height="16" />
